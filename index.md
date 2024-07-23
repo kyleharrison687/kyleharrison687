@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/Screenshot 2024-07-23 153236.png?raw=true"/>
+This Dashboard was created to present to the Mass School Board to help properly allocate funds to the schools that need them most. 
 
 ---
 #### [IFood Analytics](https://www.linkedin.com/pulse/copy-ifood-sales-throughout-year-kyle-harrison-rixff/?trackingId=HHCQ%2FmvySQy5CPK5OhiIyA%3D%3D)
