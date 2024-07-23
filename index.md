@@ -10,8 +10,8 @@ Tolulope is the best
 
 ---
 #### [IFood Analytics](https://www.linkedin.com/pulse/copy-ifood-sales-throughout-year-kyle-harrison-rixff/?trackingId=HHCQ%2FmvySQy5CPK5OhiIyA%3D%3D)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/Door Dash Analytics (1).png?raw=true"/>
+For this project, I explored Brazilian food delivery service IFood's customers and sales using `Excel` . 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
