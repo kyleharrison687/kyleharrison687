@@ -1,6 +1,6 @@
-# [Projects are Here](https://github.com/kyleharrison687/kyleharrison687/blob/master/index.md)
 
-[<img src="images/Canva readme.png?raw=true"/>](https://github.com/kyleharrison687/kyleharrison687/blob/master/index.md)
+
+[<img src="images/click here.png?raw=true"/>](https://github.com/kyleharrison687/kyleharrison687/blob/master/index.md)
 
 ## ⚡ A Few Facts About Me
 
