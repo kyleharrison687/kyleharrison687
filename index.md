@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/Screenshot 2024-07-23 153236.png?raw=true"/>
-This Dashboard was created to present to the Mass School Board to help properly allocate funds to the schools that need them most. 
+#### [Mass School Board Project](https://github.com/kyleharrison687/kyleharrison687/blob/master/sample_project.md)
+<img src="images/lockers.png?raw=true"/>
+This is a project used to help the Massachusetts school board make informed decisions about improving their school system.  
 
 ---
 #### [IFood Analytics](https://www.linkedin.com/pulse/copy-ifood-sales-throughout-year-kyle-harrison-rixff/?trackingId=HHCQ%2FmvySQy5CPK5OhiIyA%3D%3D)
@@ -14,30 +14,7 @@ This Dashboard was created to present to the Mass School Board to help properly 
 For this project, I explored Brazilian food delivery service IFood's customers and sales using `Excel` . 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
