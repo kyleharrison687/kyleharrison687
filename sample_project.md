@@ -41,7 +41,7 @@ I was tasked with analyzing this data set as part of the DAA. The goal of the pr
 
  Overall, I think that the Massachusetts schools system is performing well. Majority of the schools in the state appear to be performing above the median on most metrics. My recommendation to the school board would be to focus on what is working in the majority of schools and try to see where the struggling schools are lacking in those categories. I would also suggest taking an in depth look at the bottom performing districts to focus on improvement right away. 
 
- #Thank you for reading
+ # Thank you for reading
  
  I would love to connect on [LinkedIn](www.linkedin.com/in/kyle-harrison-data-analytics)
 
