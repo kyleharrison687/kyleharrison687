@@ -4,6 +4,11 @@
 
 ### Learn About My Projects
 
+---
+
+#### [Healthcare Report](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
+
+---
 #### [Mass School Board Project](https://github.com/kyleharrison687/kyleharrison687/blob/master/Mass%20School%20Board%20Project.md)
 <img src="images/lockers.png?raw=true"/>
 This is a project used to help the Massachusetts school board make informed decisions about improving their school system.  
