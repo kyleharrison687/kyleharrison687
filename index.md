@@ -8,6 +8,10 @@
 
 #### [Healthcare Report](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
 
+<img src="images/Health care repotrt.png?raw=true"/>
+
+In this scenario I was doing data analysis to answer specific questions that were given by a hospital director. I used SQL queries to answer those questions. 
+
 ---
 #### [Mass School Board Project](https://github.com/kyleharrison687/kyleharrison687/blob/master/Mass%20School%20Board%20Project.md)
 <img src="images/lockers.png?raw=true"/>
