@@ -8,7 +8,7 @@
 
 #### [Healthcare Report](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
 
-<img src="images/Health care repotrt.png?raw=true"/>
+<img src="images/Health care repotrt (1).png?raw=true"/>
 
 In this scenario I was doing data analysis to answer specific questions that were given by a hospital director. I used SQL queries to answer those questions. 
 
