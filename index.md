@@ -6,6 +6,13 @@
 
 ---
 
+#### [Borrowed Value](https://www.linkedin.com/pulse/borrowed-value-kyle-harrison-pbuzf/)
+
+<img src="
+
+This was a chance to showcase some of the technical skills I have been learning and to also highlight some amazing Statistics from the 2021 Atlanta Braves Playoff run. 
+
+---
 #### [Healthcare Report](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
 
 <img src="images/Health care repotrt (1).png?raw=true"/>
