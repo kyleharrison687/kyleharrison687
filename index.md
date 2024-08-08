@@ -8,7 +8,7 @@
 
 ### [2021-2022 NBA Stats](https://public.tableau.com/app/profile/kyle.harrison1329/viz/2021-2022NBAStats/2021-2022NBAStatsstory?publish=yes)
 
-<img src="images/nba.png?raw=true">
+[<img src="images/nba.png?raw=true">](https://public.tableau.com/app/profile/kyle.harrison1329/viz/2021-2022NBAStats/2021-2022NBAStatsstory?publish=yes)
 
 This scenario and data set was given to me by the Data Analytics Accelerator course. The goal of this project was to show how the stats from the 2021-2022 NBA season could be used by coaches to help their team in the future. 
 
@@ -16,14 +16,14 @@ This scenario and data set was given to me by the Data Analytics Accelerator cou
 
 #### [Borrowed Value](https://www.linkedin.com/pulse/borrowed-value-kyle-harrison-pbuzf/)
 
-<img src="images/borrowed Value.png?raw=true"/>
+[<img src="images/borrowed Value.png?raw=true"/>](https://www.linkedin.com/pulse/borrowed-value-kyle-harrison-pbuzf/)
 
 This was a chance to showcase some of the technical skills I have been learning and to also highlight some amazing Statistics from the 2021 Atlanta Braves Playoff run. 
 
 ---
 #### [Healthcare Report](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
 
-<img src="images/Health care repotrt (1).png?raw=true"/>
+[<img src="images/Health care repotrt (1).png?raw=true"/>](https://www.linkedin.com/pulse/health-medicine-diabetes-kyle-harrison-ofc6f/)
 
 In this scenario I was doing data analysis to answer specific questions that were given by a hospital director. I used SQL queries to answer those questions. 
 
