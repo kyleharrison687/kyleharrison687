@@ -6,6 +6,14 @@
 
 ---
 
+### [2021-2022 NBA Stats](https://public.tableau.com/app/profile/kyle.harrison1329/viz/2021-2022NBAStats/2021-2022NBAStatsstory?publish=yes)
+
+<img src="images/nba.png?raw=true">
+
+This scenario and data set was given to me by the Data Analytics Accelerator course. The goal of this project was to show how the stats from the 2021-2022 NBA season could be used by coaches to help their team in the future. 
+
+---
+
 #### [Borrowed Value](https://www.linkedin.com/pulse/borrowed-value-kyle-harrison-pbuzf/)
 
 <img src="images/borrowed Value.png?raw=true"/>
