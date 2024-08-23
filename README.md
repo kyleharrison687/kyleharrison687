@@ -18,6 +18,6 @@
 
 🚚 Fun Fact: My wife and I are in the process of moving from Geaorgia to Maryland. 
 
-📄 Take a look at my [Resume Here](https://github.com/kyleharrison687/kyleharrison687/blob/master/files/Kyle%20Harrison%20Resume%202024.pdf)
+📄 Take a look at my [Resume Here](https://github.com/kyleharrison687/kyleharrison687/blob/master/files/Kyle%20Harrison.%20Resume%208.23.2024.pdf)
 
 📫 [LinkedIn](www.linkedin.com/in/kyle-harrison-data-analytics)
