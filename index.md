@@ -4,6 +4,10 @@
 
 ### Learn About My Projects
 
+### [IBM HR Data Analysis](https://www.linkedin.com/pulse/hr-analytics-kyle-harrison-1cpge/?trackingId=7%2FhSwtRpP%2ByVbzYl2exutw%3D%3D)
+
+[<img src="images/Human Resource Analytics.png?raw=true">](https://www.linkedin.com/pulse/hr-analytics-kyle-harrison-1cpge/?trackingId=7%2FhSwtRpP%2ByVbzYl2exutw%3D%3D)
+
 ---
 
 ### [2021-2022 NBA Stats](https://public.tableau.com/app/profile/kyle.harrison1329/viz/2021-2022NBAStats/2021-2022NBAStatsstory?publish=yes)
