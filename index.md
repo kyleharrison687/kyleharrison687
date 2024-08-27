@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-### [IBM HR Data Analysis](https://www.linkedin.com/pulse/hr-analytics-kyle-harrison-1cpge/?trackingId=7%2FhSwtRpP%2ByVbzYl2exutw%3D%3D)
+### [IBM HR Data Analysis Using `R` ](https://www.linkedin.com/pulse/hr-analytics-kyle-harrison-1cpge/?trackingId=7%2FhSwtRpP%2ByVbzYl2exutw%3D%3D)
 
 [<img src="images/Human Resource Analytics.png?raw=true">](https://www.linkedin.com/pulse/hr-analytics-kyle-harrison-1cpge/?trackingId=7%2FhSwtRpP%2ByVbzYl2exutw%3D%3D)
 
